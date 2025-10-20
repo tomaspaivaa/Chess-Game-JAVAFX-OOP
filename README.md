@@ -106,3 +106,7 @@ Some screenshots of the application running.
 
 ### Pawn Promotion Dialog
 ![Log Screenshot](images/pawn_promotion.png)
+
+---
+
+*This work was completed as part of the “Advanced Programming” course during the 2024/2025 academic year.*
