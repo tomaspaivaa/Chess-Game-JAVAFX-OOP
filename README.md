@@ -109,4 +109,4 @@ Some screenshots of the application running.
 
 ---
 
-*This work was completed as part of the “Advanced Programming” course during the 2024/2025 academic year.*
+*This work was completed as part of the “Advanced Programming” course during the 2024/2025 academic year in a group of 2 members. (Grade: 9.6 out of 10)*
